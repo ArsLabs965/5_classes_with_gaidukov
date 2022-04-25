@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\arsen\source\repos\5 classes with Gaidukov\5 classes with Gaidukov\Source.cpp(324,31): warning C4305: =: усечение из "__int64" в "long"
+C:\Users\arsen\source\repos\5 classes with Gaidukov\5 classes with Gaidukov\Source.cpp(324,20): warning C4309: =: усечение константного значения
+C:\Users\arsen\source\repos\5 classes with Gaidukov\5 classes with Gaidukov\Source.cpp(1397,43): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\arsen\source\repos\5 classes with Gaidukov\5 classes with Gaidukov\Source.cpp(1944,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\arsen\source\repos\5 classes with Gaidukov\5 classes with Gaidukov\Source.cpp(1958,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  5 classes with Gaidukov.vcxproj -> C:\Users\arsen\source\repos\5 classes with Gaidukov\Debug\5 classes with Gaidukov.exe
